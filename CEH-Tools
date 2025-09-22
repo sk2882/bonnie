@@ -1,0 +1,79 @@
+Ethical Hacking 
+
+Reconnaissance:
+•	Passive
+1.	Footprinting through Search Engines
+2.	Footprinting Through Internet Research Services
+3.	Footprinting Through Social Networking sites
+4.	Whois Footprinting 
+•	Active
+1.	DNS Footprinting
+2.	Network and Email Footprinting
+3.	Footprinting Through Social Engineering
+4.	Footprinting Tasks using Advanced Tools and AI
+
+Passive
+1.	Footprinting through Search Engines
+a)	Advanced Google Hacking Techniques
+b)	Google Hacking Database
+c)	Shodan search engine
+2.	Footprinting Through Internet Research Services
+a)	People Search Services
+b)	Financial Services and Job Sites
+c)	archive.org
+d)	Competitive Intelligence and Business Profile Sites
+e)	Groups, Forums, and Blogs
+f)	Dark Web Searching Tools
+	Tools to find sub-domains and Top Level Domains
+o	https://www.netcraft.com
+o	https://dnsdumpster.com
+o	https://pentest-tools.com
+o	https://viewdns.info
+o	https://publicwww.com
+	Tools to find sub-domains and Top Level Domains with AI
+o	Dig
+o	Sublist3r
+o	Subfinder (subfinder -p  )
+	Extracting Website Information from https://archive.org
+o	https://archive.org
+o	Photon.py
+	Footprinting through People Search Service
+o	https://www.spokeo.com
+o	
+	Footprinting through job Sites
+o	Glassdoor, Linkedin
+
+	Dark Web Footprining
+o	https://www.torproject.org
+
+	Determining the Operating System
+o	https://www.netcraft.com
+o	https://www.shodan.io
+o	https://censys.io
+
+	
+
+3.	Footprinting Through Social Networking sites
+a)	Social Media Sites
+b)	Analyse Social Network Graphs
+4.	Whois Footprinting 
+a)	Whois Lookup
+b)	IP Geolocation Lookup
+
+
+Active
+1.	DNS Footprinting
+a)	DNS Interrogation
+b)	Reverse DNS Lookup
+2.	Network and Email Footprinting
+a)	Traceroute
+b)	Track Email Communication
+3.	 Footprinting Through Social Engineering
+a)	Eavesdropping
+b)	Shoulder Surfing
+c)	Dumpster Diving
+d)	Impersonation
+4.	Footprinting Tasks using Advanced Tools and AI
+a)	Footprinting Tools: Maltego, Recon-ng, FOCA, OSINT Framework, etc.
+b)	Create Custom Python Script with AI
+
